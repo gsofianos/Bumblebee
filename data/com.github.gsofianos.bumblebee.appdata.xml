@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 George Sofianos < george.sofianos@outlook.com -->
+<component type="desktop">
+  <id>com.github.gsofianos.bumblebee</id>
+  <metadata_license>CC0</metadata_license>
+  <name>Bumblebee</name>
+  <summary>Mini Radio Player</summary>
+  <description>
+    <p>A small minimalist radio player</p>
+  </description>
+</component>

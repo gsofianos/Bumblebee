@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Bumblebee
+GenericName=Bumblebee
+Comment=Mini Radio Player
+Categories=Sound;Media;
+Exec=com.github.gsofianos.bumblebee
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Radio;
